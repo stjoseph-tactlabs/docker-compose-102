@@ -8,7 +8,7 @@ $ docker-compose up
 ```
 
 
-1. Enter http://0.0.0.0:5000/ in a browser to see the application running.  
+1. Enter http://0.0.0.0:5001/ in a browser to see the application running.  
 
 
 You should see a message in your browser saying:  
